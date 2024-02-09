@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Equipping the Vessel</title>
+    </head>
+    <body>
+        <outline text="Cloud Native 
+AI Landscape">
+            <outline text="General Orchestration">
+                <outline text="Kubernetes"></outline>
+                <outline text="Volcano"></outline>
+                <outline text="Armada"></outline>
+                <outline text="Kuberay"></outline>
+                <outline text="Nivida NeMo"></outline>
+                <outline text="Yunikorn"></outline>
+                <outline text="Kueue"></outline>
+                <outline text="Flame"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="ML Serving">
+                <outline text="Kserve"></outline>
+                <outline text="Seldom"></outline>
+                <outline text="vLLM"></outline>
+                <outline text="TGI"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="CI/CD - Delivery">
+                <outline text="Kubeflow Pipelines"></outline>
+                <outline text="Mlflow"></outline>
+                <outline text="TFX"></outline>
+                <outline text="BentoML"></outline>
+                <outline text="MLRun"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Data Science">
+                <outline text="Jupyter"></outline>
+                <outline text="Kubeflow Notebooks"></outline>
+                <outline text="PyTorch"></outline>
+                <outline text="TensorFlow"></outline>
+                <outline text="Apache Zeppelin"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Workload Observability">
+                <outline text="Prometheus"></outline>
+                <outline text="Influxdb"></outline>
+                <outline text="Grafana"></outline>
+                <outline text="Weight and Biases"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="AutoML">
+                <outline text="Hyperopt"></outline>
+                <outline text="Optuna"></outline>
+                <outline text="Kubeflow Katib"></outline>
+                <outline text="NNI"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Distributed Training">
+                <outline text="Kubeflow Training Operator"></outline>
+                <outline text="Pytorch DDP"></outline>
+                <outline text="Torchx"></outline>
+                <outline text="Tensorflow Distributed"></outline>
+                <outline text="Open MPI"></outline>
+                <outline text="DeepSpeed"></outline>
+                <outline text="Megatron"></outline>
+                <outline text="Horovod"></outline>
+                <outline text="Apla"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Model/LLM Observability">
+                <outline text="Trulens"></outline>
+                <outline text="Langfuse"></outline>
+                <outline text="Deepchecks"></outline>
+                <outline text="OpenLLMetry"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Vector Databases">
+                <outline text="Milvus"></outline>
+                <outline text="Chroma"></outline>
+                <outline text="Weaviate"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Data Architecture">
+                <outline text="ClickHouse"></outline>
+                <outline text="Apache Pinot"></outline>
+                <outline text="Apache Druid"></outline>
+                <outline text="Cassandra"></outline>
+                <outline text="ScyllaDB"></outline>
+                <outline text="Hadoop HDFS"></outline>
+                <outline text="Apache HBase"></outline>
+                <outline text="Presto"></outline>
+                <outline text="Trino"></outline>
+                <outline text="Apache Spark"></outline>
+                <outline text="Apache Flink"></outline>
+                <outline text="Kafka"></outline>
+                <outline text="Pulsar"></outline>
+                <outline text="Fluid"></outline>
+                <outline text="Memcached"></outline>
+                <outline text="Redis"></outline>
+                <outline text="Alluxio"></outline>
+                <outline text="..."></outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
