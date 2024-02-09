@@ -19,9 +19,10 @@ AI Landscape">
             </outline>
             <outline text="ML Serving">
                 <outline text="Kserve"></outline>
-                <outline text="Seldom"></outline>
+                <outline text="Seldon"></outline>
                 <outline text="vLLM"></outline>
                 <outline text="TGI"></outline>
+                <outline text="LocalAI"></outline>
                 <outline text="..."></outline>
             </outline>
             <outline text="CI/CD - Delivery">
