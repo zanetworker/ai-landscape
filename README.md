@@ -1,3 +1,3 @@
 # ai-landscape
 
-![Alt text](image.png)
+![Alt text](cnative-ai-landscape-map.png)

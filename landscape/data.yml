@@ -1,0 +1,595 @@
+landscape:
+  - category:
+    name: Provisioning
+    subcategories:
+    - subcategory:
+      name: General Orchestration
+      items:
+        - item:
+          name: Kubernetes
+          description: 
+          homepage_url: https://kubernetes.io/
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+        - item:
+          name: Volcano
+          description: 
+          homepage_url: https://volcano.sh/
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+        - item:
+          name: Armada
+          description: 
+          homepage_url: https://armadaproject.io/
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+        - item:
+          name: Kuberay
+          description: 
+          homepage_url: https://github.com/ray-project/kuberay 
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+        - item:
+          name: Nivida NeMo
+          description: 
+          homepage_url: https://github.com/NVIDIA/NeMo 
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+        - item:
+          name: Yunikorn
+          description: 
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://yunikorn.apache.org/ 
+        - item:
+          name: Kueue
+          description: 
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://github.com/kubernetes-sigs/kueue 
+        - item:
+          name: Flame
+          description: 
+          repo_url: 
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://github.com/flame-sh/flame 
+
+  - category:
+    name: ML-Serving
+    subcategories:
+      - subcategory:
+        name: ML Serving
+        items:
+          - item:
+            name: Kserve
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/kserve/kserve 
+          - item:
+            name: Seldom
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/SeldonIO/seldon-core 
+          - item:
+            name: vLLM
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/vllm-project/vllm
+          - item:
+            name: TGI
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/huggingface/text-generation-inference
+
+  - category:
+    name: CI/CD
+    subcategories:
+      - subcategory:
+        name: CI/CD - Delivery
+        items:
+          - item:
+            name: Kubeflow Pipelines
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.kubeflow.org/docs/components/pipelines/v1/introduction/ 
+          - item:
+            name: Mlflow
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://mlflow.org/ 
+          - item:
+            name: TFX
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.tensorflow.org/tfx 
+          - item:
+            name: BentoML
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/bentoml/BentoML 
+          - item:
+            name: MLRun
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.mlrun.org/ 
+
+  - category:
+    name: Datascience
+    subcategories:
+      - subcategory:
+        name: Data Science
+        items:
+          - item:
+            name: Jupyter
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://jupyter.org/ 
+          - item:
+            name: Kubeflow Notebooks
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.kubeflow.org/docs/components/notebooks/ 
+          - item:
+            name: PyTorch
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://pytorch.org/ 
+          - item:
+            name: TensorFlow
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.tensorflow.org/ 
+          - item:
+            name: Apache Zeppelin
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://zeppelin.apache.org/ 
+
+  - category:
+    name: Observability
+    subcategories:
+      - subcategory:
+        name: Distributed Training
+        items:
+          - item:
+            name: Kubeflow Training Operator
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.kubeflow.org/docs/components/training/ 
+          - item:
+            name: Pytorch DDP
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://pytorch.org/tutorials/intermediate/ddp_tutorial.html 
+          - item:
+            name: Torchx
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://pytorch.org/torchx/latest/ 
+          - item:
+            name: Tensorflow Distributed
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.tensorflow.org/guide/distributed_training 
+          - item:
+            name: Open MPI
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www-lb.open-mpi.org/  
+          - item:
+            name: DeepSpeed
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/microsoft/DeepSpeed 
+          - item:
+            name: Megatron
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/NVIDIA/Megatron-LM
+          - item:
+            name: Horovod
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/horovod/horovod 
+          - item:
+            name: Apla
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/alpa-projects/alpa     
+      - subcategory:
+        name: Workload Observability
+        items:
+          - item:
+            name: Prometheus
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://prometheus.io/ 
+          - item:
+            name: Influxdb
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/influxdata/influxdb
+          - item:
+            name: Grafana
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/grafana/grafana
+          - item:
+            name: Weight and Biases
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://wandb.ai/
+      - subcategory:
+        name: Model/LLM Observability
+        items:
+          - item:
+            name: Trulens
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.trulens.org/ 
+          - item:
+            name: Langfuse
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/langfuse/langfuse
+          - item:
+            name: Deepchecks
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/deepchecks/deepchecks
+          - item:
+            name: OpenLLMetry
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/traceloop/openllmetry 
+
+  - category:
+    name: Automation
+    subcategories:
+      - subcategory:
+        name: AutoML
+        items:
+          - item:
+            name: Hyperopt
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://hyperopt.github.io/hyperopt/ 
+          - item:
+            name: Optuna
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://optuna.org/ 
+          - item:
+            name: Kubeflow Katib
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.kubeflow.org/docs/components/katib/overview/ 
+
+
+  - category:
+    name: Storage
+    subcategories:
+      - subcategory:
+        name: Vector Databases
+        note: Vector extensions are also found in Redis, Postgres SQL, ElasticSearch, etc 
+        items:
+          - item:
+            name: Milvus
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://milvus.io/ 
+          - item:
+            name: Chroma
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.trychroma.com/ 
+          - item:
+            name: Weaviate
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/weaviate/weaviate
+      - subcategory:
+        name: Data Architecture
+        items:
+          - item:
+            name: ClickHouse
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/ClickHouse/ClickHouse 
+          - item:
+            name: Apache Pinot
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://pinot.apache.org/ 
+          - item:
+            name: Apache Druid
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://druid.apache.org/ 
+          - item:
+            name: Cassandra
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://cassandra.apache.org/ 
+          - item:
+            name: ScyllaDB
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/scylladb/scylladb 
+          - item:
+            name: Hadoop HDFS
+            description: 
+            repo_url: 
+            logo: kubernetes.png
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://hadoop.apache.org/ 
+          - item:
+            name: Apache HBase
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://hbase.apache.org/ 
+          - item:
+            name: Presto
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/prestodb/presto 
+          - item:
+            name: Trino
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://trino.io/ 
+          - item:
+            name: Apache Spark
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://spark.apache.org/ 
+          - item:
+            name: Apache Flink
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://flink.apache.org/ 
+          - item:
+            name: Kafka
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://flink.apache.org/ 
+          - item:
+            name: Pulsar
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://pulsar.apache.org/ 
+          - item:
+            name: Fluid
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://fluid-cloudnative.github.io/ 
+          - item:
+            name: Memcached
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://memcached.org/ 
+          - item:
+            name: Redis
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/redis/redis 
+          - item:
+            name: Alluxio,
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://github.com/Alluxio/alluxio
+
+  - category:
+    name: Governance, Policy & Security
+    subcategories:
+      - subcategory:
+        name: Governance, Policy & Security
+        items:
+          - item:
+            name: Kyverno
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://kyverno.io
+          - item:
+            name: OPA/Gatekeeper
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://www.openpolicyagent.org/
+          - item:
+            name: Kyverno-JSON
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://kyverno.github.io/kyverno-json/latest/ 
+          - item:
+            name: Stacklock Minder
+            description: 
+            repo_url: 
+            logo: cncf.svg
+            crunchbase:
+            unnamed_organization: true
+            homepage_url: https://stacklok.com/minder

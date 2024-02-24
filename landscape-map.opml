@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
     <head>
-        <title>Equipping the Vessel</title>
+        <title>Cloud Native 
+AI Landscape</title>
     </head>
     <body>
         <outline text="Cloud Native 
@@ -19,9 +20,10 @@ AI Landscape">
             </outline>
             <outline text="ML Serving">
                 <outline text="Kserve"></outline>
-                <outline text="Seldom"></outline>
+                <outline text="Seldon"></outline>
                 <outline text="vLLM"></outline>
                 <outline text="TGI"></outline>
+                <outline text="Skypilot"></outline>
                 <outline text="..."></outline>
             </outline>
             <outline text="CI/CD - Delivery">
@@ -44,7 +46,8 @@ AI Landscape">
                 <outline text="Prometheus"></outline>
                 <outline text="Influxdb"></outline>
                 <outline text="Grafana"></outline>
-                <outline text="Weight and Biases"></outline>
+                <outline text="Weight and Biases (wandb)"></outline>
+                <outline text="OpenTelemetry"></outline>
                 <outline text="..."></outline>
             </outline>
             <outline text="AutoML">
@@ -77,6 +80,13 @@ AI Landscape">
                 <outline text="Milvus"></outline>
                 <outline text="Chroma"></outline>
                 <outline text="Weaviate"></outline>
+                <outline text="Quadrant"></outline>
+                <outline text="Pinecone"></outline>
+                <outline text="Extensions">
+                    <outline text="Redis "></outline>
+                    <outline text="Postgres SQL"></outline>
+                    <outline text="ElasticSearch"></outline>
+                </outline>
                 <outline text="..."></outline>
             </outline>
             <outline text="Data Architecture">
@@ -97,6 +107,14 @@ AI Landscape">
                 <outline text="Memcached"></outline>
                 <outline text="Redis"></outline>
                 <outline text="Alluxio"></outline>
+                <outline text="Apache Superset"></outline>
+                <outline text="..."></outline>
+            </outline>
+            <outline text="Governance &amp; Policy">
+                <outline text="Kyverno"></outline>
+                <outline text="Kyverno-JSON"></outline>
+                <outline text="OPA/Gatekeeper"></outline>
+                <outline text="Stacklock Minder"></outline>
                 <outline text="..."></outline>
             </outline>
         </outline>
