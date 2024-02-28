@@ -9,12 +9,13 @@ AI Landscape</title>
 AI Landscape">
             <outline text="General Orchestration">
                 <outline text="Kubernetes"></outline>
-                <outline text="Volcano"></outline>
+                <outline text="KEDA"></outline>
+                <outline text="Kueue"></outline>
                 <outline text="Armada"></outline>
                 <outline text="Kuberay"></outline>
+                <outline text="Volcano"></outline>
                 <outline text="Nivida NeMo"></outline>
                 <outline text="Yunikorn"></outline>
-                <outline text="Kueue"></outline>
                 <outline text="Flame"></outline>
                 <outline text="..."></outline>
             </outline>
