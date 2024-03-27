@@ -17,6 +17,7 @@ AI Landscape">
                 <outline text="Nivida NeMo"></outline>
                 <outline text="Yunikorn"></outline>
                 <outline text="Flame"></outline>
+                <outline text="HAMi"></outline>
                 <outline text="..."></outline>
             </outline>
             <outline text="ML Serving">

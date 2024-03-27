@@ -69,6 +69,15 @@ landscape:
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/flame-sh/flame 
+        - item:
+          name: HAMi
+          description: Heterogeneous AI Computing Virtualization(vGPU)
+          repo_url: https://github.com/Project-HAMi/HAMi
+          logo: kubernetes.png
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://github.com/Project-HAMi/HAMi
+
 
   - category:
     name: ML-Serving
